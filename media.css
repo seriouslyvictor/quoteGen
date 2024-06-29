@@ -1,0 +1,9 @@
+@media (max-width: 40.625rem) {
+    .quote--box {
+        max-width: 21.875rem;
+    }
+
+    .quote--box p{
+        font-size: 1.5rem;
+    }
+}
